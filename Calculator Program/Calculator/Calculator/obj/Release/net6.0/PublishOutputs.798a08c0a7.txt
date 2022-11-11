@@ -1,0 +1,5 @@
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator.exe
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator.dll
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator.deps.json
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator.runtimeconfig.json
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator.pdb

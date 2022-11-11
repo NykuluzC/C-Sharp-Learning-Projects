@@ -1,0 +1,15 @@
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\bin\Release\net6.0\Calculator.exe
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\bin\Release\net6.0\Calculator.deps.json
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\bin\Release\net6.0\Calculator.runtimeconfig.json
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\bin\Release\net6.0\Calculator.dll
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\bin\Release\net6.0\Calculator.pdb
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.dll
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\refint\Calculator.dll
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.pdb
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\carlm\Desktop\C# Projects\Calculator Program\Calculator\Calculator\obj\Release\net6.0\ref\Calculator.dll
